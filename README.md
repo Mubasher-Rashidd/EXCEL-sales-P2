@@ -1,6 +1,6 @@
 # Sales Dashboard
 
-![Dashboard Screenshot](path-to-your-screenshot.png)
+![Dashboard Screenshot](https://github.com/Mubasher-Rashidd/EXCEL-sales-P2/blob/main/Dashboard.png?raw=true).
 
 This repository contains the **EXCEL-sales-P2** project, an interactive **Sales Dashboard** created using Microsoft Excel. The dashboard provides a comprehensive analysis of sales performance across different categories and regions, enabling insights into key metrics such as profits, top customers, and sales trends.
 
