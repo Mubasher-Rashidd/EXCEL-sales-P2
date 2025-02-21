@@ -70,7 +70,7 @@ The **Sales Dashboard** in this project analyzes sales data for multiple product
 
 ## How to Use
 
-1. Download and open the **EXCEL-sales-P2.xlsx** file in Microsoft Excel.
+1. Download and open the **salesdata-mubasher.xlsx** file in Microsoft Excel.
 2. Use the **slicers** to filter the data by:
    - **Year**: Select a specific year to view the sales and profit data for that period.
    - **Category**: Choose between **Furniture**, **Office Supplies**, and **Technology** to focus on a particular product category.
